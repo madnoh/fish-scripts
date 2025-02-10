@@ -6,3 +6,7 @@ For other regions, kindly use the location codes from https://mpt.i906.my/code.h
 Also, it displays the current Hijri date using the API from https://aladhan.com/islamic-calendar-api#get-/gToHCalendar/-month-/-year-
 
 I did this because I'm on the terminal most of the time and I would rather not use widgets and such.
+
+whatismyip.fish
+
+A script to display Local IP address, IPv4 and IPv6 addreses.
