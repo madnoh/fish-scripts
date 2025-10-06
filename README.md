@@ -22,3 +22,7 @@ A function to seach several torrent sites for a given string and opens them webs
 ### sleepnow.fish
 
 Just alias to put my Linux machine to suspend mode. Did it because I was more familiar with MacOS's pmset sleepnow command.
+
+### update.fish
+
+An alias to do updates on my Archlinux machine.
