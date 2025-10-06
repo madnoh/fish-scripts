@@ -26,3 +26,7 @@ Just alias to put my Linux machine to suspend mode. Did it because I was more fa
 ### update.fish
 
 An alias to do updates on my Archlinux machine.
+
+### showupdates.fish
+
+A fucntion to display what packages has updates available. These days I'd manually do updates instead of blanket sudo pacman -Syu.
