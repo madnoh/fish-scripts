@@ -14,3 +14,7 @@ A function to display Local IP address, IPv4 and IPv6 addreses.
 ### ramadan.fish 
 
 A function to display how many days left till first of Ramadan in the Islamic calendar.
+
+### multisearch.fish
+
+A function to seach several torrent sites for a given string and opens them website search results.
