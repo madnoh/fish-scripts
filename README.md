@@ -7,17 +7,18 @@ Also, it displays the current Hijri date using the API from https://aladhan.com/
 
 I did this because I'm on the terminal most of the time and I would rather not use widgets and such.
 
-### whatismyip.fish  
 
-A function to display Local IP address, IPv4 and IPv6 addreses.
+### multisearch.fish
+
+A function to seach several torrent sites for a given string and opens them website search results.
 
 ### ramadan.fish 
 
 A function to display how many days left till first of Ramadan in the Islamic calendar.
 
-### multisearch.fish
+### showupdates.fish
 
-A function to seach several torrent sites for a given string and opens them website search results.
+A fucntion to display what packages has updates available. These days I'd manually do updates instead of blanket sudo pacman -Syu.
 
 ### sleepnow.fish
 
@@ -27,6 +28,9 @@ Just alias to put my Linux machine to suspend mode. Did it because I was more fa
 
 An alias to do updates on my Archlinux machine.
 
-### showupdates.fish
 
-A fucntion to display what packages has updates available. These days I'd manually do updates instead of blanket sudo pacman -Syu.
+### whatismyip.fish  
+
+A function to display Local IP address, IPv4 and IPv6 addreses.
+
+
