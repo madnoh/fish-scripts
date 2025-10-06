@@ -18,3 +18,7 @@ A function to display how many days left till first of Ramadan in the Islamic ca
 ### multisearch.fish
 
 A function to seach several torrent sites for a given string and opens them website search results.
+
+### sleepnow.fish
+
+Just alias to put my Linux machine to suspend mode. Did it because I was more familiar with MacOS's pmset sleepnow command.
